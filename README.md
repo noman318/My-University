@@ -1,13 +1,13 @@
 # My University
 
-## Landing Page
-![landingPage](Screenshot (28).png)
+### Landing Page
+![landingPage](Screenshot28.png)
 
-## Landing Page
-![landingPage2](Screenshot (29).png)
+### Landing Page
+![landingPage2](Screensho29.png)
 
-## Landing Page
-![ContactPage](Screenshot (27).png)
+### Landing Page
+![ContactPage](Screenshot27.png)
 
-## Landing Page
-![AboutPage](Screenshot (30).png)
+### Landing Page
+![AboutPage](Screenshot30.png)
